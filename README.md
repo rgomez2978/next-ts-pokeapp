@@ -9,9 +9,9 @@
 
 # Aplicación Next.Js - Pokemon API Static
 
-Creacion de proyecto de tarjetas de personajes **POKEMON** con uso del API `PokeAPI` , en el cual se ponen en practica tecnicas de construccion estaticas del lado del servidor como: `Incremental Static Generation (ISG)` e `Incremental Static Regeneration (ISR)`.  Asi como tambien se pusieron en practica los siguientes principios:
+Creacion de proyecto de tarjetas de personajes **POKEMON** con uso del API `PokeAPI` , en el cual se ponen en practica tecnicas de construccion estaticas del lado del servidor como: `Incremental Static Generation (ISG)` e `Incremental Static Regeneration (ISR)` y `Static Site Generation (SSG)`.  Asi como tambien se pusieron en practica los siguientes principios:
 
-Elaborado en Next.Js `v12.3.4`, React `v17.0.2`, Bootstrap 4, carga de datos desde array.
+Elaborado en Next.Js `v12.3.4`, React `v17.0.2`,  NextUI `v1.0.2-beta.2`, carga de datos desde API externa `PokeAPI`.
 
 **pokeapi-static**
 [DEMO](https://rgomez-next-pokeapi-ssg.vercel.app/)
@@ -24,13 +24,13 @@ Elaborado en Next.Js `v12.3.4`, React `v17.0.2`, Bootstrap 4, carga de datos des
 
 ## Screenshots del proyecto
 
-<img src="./pokemon-static-site-generation/public/img/capture_1.png" alt="drawing" style="width:700px;"/>
+<img src="./pokeapp-incremental-static/public/img/capture_1.png" alt="drawing" style="width:700px;"/>
 
-<img src="./pokemon-static-site-generation/public/img/capture_2.png" alt="drawing" style="width:700px;"/>
+<img src="./pokeapp-incremental-static/public/img/capture_2.png" alt="drawing" style="width:700px;"/>
 
-<img src="./pokemon-static-site-generation/public/img/capture_3.png" alt="drawing" style="width:700px;"/>
+<img src="./pokeapp-incremental-static/public/img/capture_3.png" alt="drawing" style="width:700px;"/>
 
-<img src="./pokemon-static-site-generation/public/img/capture_4.png" alt="drawing" style="width:300px;"/>
+<img src="./pokeapp-incremental-static/public/img/capture_4.png" alt="drawing" style="width:300px;"/>
 
 
 ## Descripción del proyecto

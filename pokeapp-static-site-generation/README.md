@@ -9,15 +9,13 @@
 
 # Aplicación Next.Js - Pokemon API Static
 
-Creacion de proyecto de tarjetas de personajes **POKEMON** con uso del API `PokeAPI` , en el cual se ponen en practica tecnicas de construccion estaticas del lado del servidor como: `Incremental Static Generation (ISG)` e `Incremental Static Regeneration (ISR)`.  Asi como tambien se pusieron en practica los siguientes principios:
+Creacion de proyecto de tarjetas de personajes **POKEMON** con uso del API `PokeAPI` , en el cual se ponen en practica tecnicas de construccion estaticas del lado del servidor como: ` `Static Site Generation (SSG)`.  Asi como tambien se pusieron en practica los siguientes principios:
 
 Elaborado en Next.Js `v12.3.4`, React `v17.0.2`, NextUI `v1.0.2-beta.2`, carga de datos desde API externa `PokeAPI`.
 
 **pokeapi-static**
 [DEMO](https://rgomez-next-pokeapi-ssg.vercel.app/)
 
-**pokeapi-incremental-static**
-[DEMO](https://rgomez-next-pokeapi-incremental-static.vercel.app/)
 
 <div>&nbsp;</div>
 
